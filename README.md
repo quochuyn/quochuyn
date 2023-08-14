@@ -8,8 +8,9 @@ I'm pursuing a 🎓 master's degree in data science from University of Michigan 
   </a>
 </div>
 
-My most recent project:
-  1. 🏒 In [nhl-draft-predctions](https://github.com/quochuyn/nhl-draft-predictions), we explored using NLP to analyze scouting reports for player prospects in the NHL. We tried the baseline NLTK approach and some state-of-the-art LLMs like Google's BERT and OpenAI's Chat-GPT models. Check out our [final paper here](https://deepnote.com/@nhl-draft-predictions/NHL-Draft-Predictions-09d8dc5c-d54b-4729-bd12-f4067dd931f4).
+My most recent projects:
+  1. 🎥 [youtube-recommender-app](https://github.com/krishch72/youtube_recommender_app) is my master's capstone. We built an end-to-end product for browsing Youtube videos with an A.I.-based filter that identifies and flags potentially inappropriate content. Check out our [website here](https://youtube-capstone.streamlit.app/) and [medium article here](https://medium.com/@gabrielalon257/youtube-filtering-capstone-67f755fb6dca).
+  2. 🏒 In this [repository](https://github.com/quochuyn/nhl-draft-predictions), we leveraged Natural Language Processing (NLP) techniques to predict player outcomes in the National Hockey League (NHL) draft. We outline our journey through various NLP methodologies, starting from the baseline NLTK approach and progressing to state-of-the-art Language Models (LLMs) like Google's BERT and OpenAI's Chat-GPT. Check out our [final paper here](https://deepnote.com/@nhl-draft-predictions/NHL-Draft-Predictions-09d8dc5c-d54b-4729-bd12-f4067dd931f4).
 
 <!--
 **quochuyn/quochuyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
