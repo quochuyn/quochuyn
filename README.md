@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm pursuing a 🎓 master's degree in data science from University of Michigan and I have a bachelor's degree in mathematics from University of California, Irvine. I've got 8 months of industry experience and 1.5 years of research experience working on interdisciplinary teams, engineering data pipelines, performing data analysis, building models, and more!
+I'm a recent graduate with a 🎓 Master's of Applied Data Science from University of Michigan and a B.S. in mathematics specialized in data science from University of California, Irvine. I've got 8 months of industry experience and 1.5 years of research experience working on interdisciplinary teams, engineering data pipelines, performing data analysis, building models, and more!
 
 <div align="center">
   <a href="mailto:quochuyn1999@gmail.com">
